@@ -3,6 +3,8 @@ Statistical comparisons for mean vectors generated in orientation experiments.
 In particular Generalised Linear Mixed-effects Models (GLMM), accounting for individual differences in precision.
 Mean vectors are often calculated as a summary of the precision of a circular ([von Mises](https://en.wikipedia.org/wiki/Von_Mises_distribution)) distribution.
 Since they are normalised to (0,1) they cannot, themselves, be normally distributed.
+
+While comparisons using non-parametric (rank-based) methods are appropriate, they are often underpowered, and insufficient to account for interactions and more complex blocking designs (_e.g._ nested repeated measures).
 ## Approaches
 Two approaches are developed here.
 
