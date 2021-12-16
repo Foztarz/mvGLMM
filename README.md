@@ -20,4 +20,4 @@ Two approaches are developed here.
     ([concentration parameter](https://en.wikipedia.org/wiki/Beta_distribution#Mode_and_concentration) of beta distribution) of the distribution are modelled.
     Estimates and post-hoc comparisons are extracted using [emmeans](https://cran.r-project.org/web/packages/emmeans/vignettes/basics.html).
     
- For an (under-development) approach based on the von Mises distribution of the original data set, see (Tubular)[https://github.com/Foztarz/Tubular].
+ For an (under-development) approach based on the von Mises distribution of the original data set, see [Tubular](https://github.com/Foztarz/Tubular).
