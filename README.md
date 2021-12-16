@@ -15,6 +15,7 @@ Two approaches are developed here.
     Variances may nonetheless differ, check for homogeneity of variance before applying these methods.
     
  - **Beta GLMM**
+ 
     Mean vectors are treated as samples from a [beta distribution](https://en.wikipedia.org/wiki/Beta_distribution) (common for fractions).
     Modelling is performed via [glmmTMB](https://cran.r-project.org/web/packages/glmmTMB/vignettes/glmmTMB.pdf).
     These are [logit](https://en.wikipedia.org/wiki/Logit) transformed and effects on both the mean and dispersion
